@@ -1,4 +1,4 @@
-# twitter_archive
+# Twitter Archive
 This is a offline archive of my Twitter feed (@internetsurfing) covering topics like IOT, Cloud, DevOps and Realtime Systems.
 
 ## How to use your Twitter archive
